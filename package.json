@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Paraschowdhary098/CI_CD_Fundamentals/issues"
   },
-  "homepage": "https://github.com/Paraschowdhary098/CI_CD_Fundamentals#readme"
+  "homepage": "https://github.com/Paraschowdhary098/CI_CD_Fundamentals#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
